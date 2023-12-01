@@ -1,0 +1,15 @@
+*{
+margin: 0;
+padding: 0;
+background-color: whitesmoke;
+}
+
+#clock {
+    font-family: '', sans-serif;
+    font-size: 150px;
+    color: black;
+    text-align: center;
+    background-color: whitesmoke;
+    align-items: center;
+    margin-top: 300px;
+  }
